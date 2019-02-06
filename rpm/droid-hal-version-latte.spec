@@ -11,7 +11,7 @@
 %define have_vibrator_native 0
 %define have_led 1
 
-%define use_hybris 0
+%define native_build 1
 
 %include droid-hal-version/droid-hal-version.inc
 
