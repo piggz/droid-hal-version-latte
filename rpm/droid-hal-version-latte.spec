@@ -8,7 +8,6 @@
 %define device_pretty Mi Pad 2
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
-%define have_vibrator 0
 %define have_led 1
 
 %define native_build 1
